@@ -1,0 +1,18 @@
+{
+  "id":"arcemp",
+  "name":"Arcahv Empire",
+  "author":"EstovakianAce",
+  "utility": false,
+  "version": { "major": '0', "minor": '1', "patch": '0' },
+  "description":"Arcahv Empire Faction Mod",
+  "gameVersion":"0.97a-RC11",
+  "jars": [ "jars/ArcEmp.jar" ],
+  "modPlugin":"EstovakianAce.ArcahvEmpire.ArcEmp_Plugin",
+  "dependencies": [
+    {"id": "lw_lazylib", "name": "LazyLib"},
+    {"id": "lunalib", "name": "LunaLib"},
+    {"id": "MagicLib", "name": "MagicLib"},
+    {"id": "nexerelin", "name": "Nexerelin"},
+    {"id": "shaderLib", "name": "GraphicsLib"}
+  ]
+}
