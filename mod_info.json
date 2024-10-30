@@ -6,8 +6,8 @@
   "version": { "major": '0', "minor": '1', "patch": '0' },
   "description":"Arcahv Empire Faction Mod",
   "gameVersion":"0.97a-RC11",
-  "jars": [ "jars/ArcEmp.jar" ],
-  "modPlugin":"EstovakianAce.ArcahvEmpire.ArcEmp_Plugin",
+  "jars": [ "jars/ArcahvEmpire.jar" ],
+  "modPlugin":"EstovakianAce.ArcahvEmpire.ArcEmpPlugin",
   "dependencies": [
     {"id": "lw_lazylib", "name": "LazyLib"},
     {"id": "lunalib", "name": "LunaLib"},
